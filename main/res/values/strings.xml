@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">留言板</string>
+    <string name="author">留言人</string>
+    <string name="content">输入留言内容:</string>
+    <string name="time">年/月/日 时间</string>
+    <string name="text">留言内容</string>
+</resources>
